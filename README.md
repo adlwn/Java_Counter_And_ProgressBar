@@ -7,13 +7,23 @@ Tugas B  ProgressBar
 
 1.) FILE TUGAS ADA DI DALAM FOLDER "UseComponent" > "Source Packages" > "default package" (.java)
 
-2.) FILE JAR ADA DI DALAM FOLDER "Counter" > "dist"  ... (.jar)
+2.) JIKA INGIN MENYALIN, TARUH DI "C:/Users/Documents/NetBeansProjects/...(disini)"
 
-3.) CARA SET PALLETE JAR BEANS Tab "Tools" > Pallete "SwingAWT components" > (Lokasi JAR) > Kategori "Beans"
+3.) PASTIKAN MENGELUARKAN SEMUA FOLDER DI DALAM "Java_Counter_And-ProgressBar", JADI DI DALAM "NetBeansProjects" ISINYA :
 
-4.) IDE  NetBeans RC v8.2 (All Include)
+-. Colors
 
-5.) MAX COUNTER UP = 20 klik
+-. Counter
 
-6.) COUNTER DOWN = fitur tidak bisa
+-. UseComponent
+
+4.) FILE JAR ADA DI DALAM FOLDER "Counter" > "dist"  ... (.jar)
+
+5.) CARA SET PALLETE JAR BEANS Tab "Tools" > Pallete "SwingAWT components" > (Lokasi JAR) > Kategori "Beans"
+
+6.) IDE  NetBeans RC v8.2 (All Include)
+
+7.) MAX COUNTER UP = 20 klik
+
+8.) COUNTER DOWN = fitur tidak bisa
 
