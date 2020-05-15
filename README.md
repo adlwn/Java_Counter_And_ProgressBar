@@ -9,7 +9,7 @@ Tugas B  ProgressBar
 
 2.) JIKA INGIN MENYALIN, TARUH DI "C:/Users/Documents/NetBeansProjects/...(disini)"
 
-3.) PASTIKAN MENGELUARKAN SEMUA FOLDER DI DALAM "Java_Counter_And-ProgressBar", JADI DI DALAM "NetBeansProjects" ISINYA :
+3.) PASTIKAN MENGELUARKAN SEMUA FOLDER DI DALAM "Java_Counter_And-ProgressBar", JADI DI DALAM "NetBeansProjects" :
 
 -. Colors
 
